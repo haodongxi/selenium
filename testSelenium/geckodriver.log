@@ -1,0 +1,108 @@
+1503415491855	geckodriver	INFO	geckodriver 0.18.0
+1503415491861	geckodriver	INFO	Listening on 127.0.0.1:44017
+1503415493039	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503415494673	Marionette	INFO	Enabled via --marionette
+1503415501574	Marionette	INFO	Listening on port 45173
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503415501678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503415501726	Marionette	DEBUG	loaded listener.js
+1503415501819	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503415503065	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503415503066	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503415510052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1503415510342	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400C6,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1503415520579	geckodriver	INFO	geckodriver 0.18.0
+1503415520585	geckodriver	INFO	Listening on 127.0.0.1:40863
+1503415520785	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503415522931	Marionette	INFO	Enabled via --marionette
+1503415526719	Marionette	INFO	Listening on port 44179
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503415526835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503415526888	Marionette	DEBUG	loaded listener.js
+1503415526918	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503415527883	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503415527884	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503415620770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1503415620884	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1503499634212	geckodriver	INFO	geckodriver 0.18.0
+1503499634284	geckodriver	INFO	Listening on 127.0.0.1:44551
+1503499635542	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503499662783	geckodriver	INFO	geckodriver 0.18.0
+1503499662787	geckodriver	INFO	Listening on 127.0.0.1:59127
+1503499663885	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503499664958	Marionette	INFO	Enabled via --marionette
+1503499669498	Marionette	INFO	Listening on port 46525
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503499669565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503499669614	Marionette	DEBUG	loaded listener.js
+1503499669651	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503499670472	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503499670472	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503499670874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1503499670974	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1503499705657	geckodriver	INFO	geckodriver 0.18.0
+1503499705662	geckodriver	INFO	Listening on 127.0.0.1:51573
+1503499706769	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503499707759	Marionette	INFO	Enabled via --marionette
+1503499711349	Marionette	INFO	Listening on port 33319
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503499711394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503499711440	Marionette	DEBUG	loaded listener.js
+1503499711504	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503499715248	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503499715249	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503499791102	Marionette	DEBUG	loaded listener.js
+1503499814775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1503499814794	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1503500319591	geckodriver	INFO	geckodriver 0.18.0
+1503500319597	geckodriver	INFO	Listening on 127.0.0.1:60795
+1503500319718	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503500321967	Marionette	INFO	Enabled via --marionette
+1503500325779	Marionette	INFO	Listening on port 40489
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503500325844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503500325890	Marionette	DEBUG	loaded listener.js
+1503500325927	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503500326688	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503500326688	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503500420321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1503500420362	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1503500624856	geckodriver	INFO	geckodriver 0.18.0
+1503500624861	geckodriver	INFO	Listening on 127.0.0.1:47969
+1503500625991	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503500627076	Marionette	INFO	Enabled via --marionette
+1503500630354	Marionette	INFO	Listening on port 41369
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503500630496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503500630558	Marionette	DEBUG	loaded listener.js
+1503500630596	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503500630750	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503500630750	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503500631883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.sdau.edu.cn/"
+JavaScript error: http://www.sdau.edu.cn/page/main2209/extends/libs/jquery.min.js, line 3: Error: Syntax error, unrecognized expression: 
+
+1503500633465	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.sdau.edu.cn/"
+1503500634262	Marionette	DEBUG	loaded listener.js
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
+1503584405986	geckodriver	INFO	geckodriver 0.18.0
+1503584406153	geckodriver	INFO	Listening on 127.0.0.1:39545
+1503584407259	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503584408412	Marionette	INFO	Enabled via --marionette
+1503584412480	Marionette	INFO	Listening on port 46513
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503584412619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503584412666	Marionette	DEBUG	loaded listener.js
+1503584412702	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503584412905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503584412906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503584414403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.sdau.edu.cn/"
+JavaScript error: http://www.sdau.edu.cn/page/main2209/extends/libs/jquery.min.js, line 3: Error: Syntax error, unrecognized expression: 
+
+1503584415597	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.sdau.edu.cn/"
+1503584416370	Marionette	DEBUG	loaded listener.js
+1503584416823	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
